@@ -11,5 +11,6 @@ class Car
   
   def go 
     puts 'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
+  end 
   
 end 
