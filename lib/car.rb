@@ -10,7 +10,7 @@ class Car
   end 
   
   def go 
-    puts "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end 
   
 end 
